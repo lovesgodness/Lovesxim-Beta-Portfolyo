@@ -47,8 +47,8 @@ Proje, **UI/UX ve frontend mimarisi** göstermek amacıyla hazırlanmıştır.
 Projeyi çalıştırmak için:
 
 ```bash
-git clone https://github.com/kullaniciadi/lovesxim.git
-cd lovesxim
+git clone https://github.com/lovesgodness/Lovesxim-Beta-Portfolyo.git
+cd Lovesxim-Beta-Portfolyo
 npm install
 npm run dev
 
